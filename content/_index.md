@@ -19,7 +19,10 @@ There are two ways of organizing articles. One is categorization, and the other 
 - Short Stories
 - Tutorials
 - Notes
+- [莎利與艾夕][1]
 
 ### Collections
 
 - iOS Development
+
+[1]:	sally-and-ashe.md
