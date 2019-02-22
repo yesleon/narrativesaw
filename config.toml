@@ -1,3 +1,5 @@
 baseURL = ""
 languageCode = "en-us"
 title = "narrativesaw"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
