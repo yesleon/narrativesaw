@@ -3,3 +3,7 @@ languageCode = "en-us"
 title = "narrativesaw"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[Author]  
+  name = "Li-Heng Hsu" 
+  email = "yesleon@me.com"
