@@ -25,4 +25,4 @@ There are two ways of organizing articles. One is categorization, and the other 
 
 - iOS Development
 
-[1]:	sally-and-ashe
+[1]:	pages/sally-and-ashe.md

@@ -7,3 +7,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [Author]  
   name = "Li-Heng Hsu" 
   email = "yesleon@me.com"
+  
+[permalinks]
+  pages = "/pages/:filename.md"
