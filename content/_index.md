@@ -11,7 +11,7 @@ There are two ways of organizing articles. One is categorization, and the other 
 ### Categories
 
 - Essays
-  - Short Stories
+- Short Stories
 - Tutorials
 - Notes
 
