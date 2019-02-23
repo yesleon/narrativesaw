@@ -1,22 +1,15 @@
-<!doctype html>
-<html>
-{{ partial "head.html" . }}
+{{ define "main" }}
+	<article>
+		{{ .Content }}
 
-<body>
-<article>
-	{{ .Content }}
-
-<h2>Categories</h2>
-	    {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
-	    <h3> {{ $key | humanize }} </h3>
-	    <ul>
-	        {{ range $taxonomy.Pages }}
-	        <li><a href="{{ .Permalink }}"> {{ .File.ContentBaseName | humanize }} </a></li>
-	        {{ end }}
-	    </ul>
-	    {{ end }}
-	{{ partial "byline.html" . }}
-</article>
-</body>
-
-</html>
+		<h2>Categories</h2>
+		{{ range $key, $taxonomy := .Site.Taxonomies.categories }}
+			<h3> {{ $key | humanize }} </h3>
+			<ul>
+				{{ range $taxonomy.Pages }}
+					<li><a href="{{ .Permalink }}"> {{ .File.ContentBaseName | humanize }} </a></li>
+				{{ end }}
+			</ul>
+		{{ end }}
+	</article>
+		{{ end }}
