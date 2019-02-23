@@ -5,7 +5,7 @@ categories:
 - Short Stories
 ---
 
-# Sally and AsheHi 
+# Page 1
 
 ## 莎莉與艾夕
 
