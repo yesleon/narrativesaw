@@ -75,6 +75,5 @@ categories:
 
 「妳有看到那個塞子嗎？」
 
-[下一頁][1]
+[待續]()
 
-[1]:	/pages/sally-and-ashe_page-2.md
