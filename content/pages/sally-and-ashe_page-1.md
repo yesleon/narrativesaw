@@ -3,12 +3,10 @@ date: 2019-02-23T04:20:25+08:00
 draft: false
 categories:
 - Short Stories
-navlinks: [
-]() “[下一頁][2]”
-]
+navlinks: “1”
 ---
 
-# Sally and Ashe
+# Sally and AsheHi 
 
 ## 莎莉與艾夕
 
@@ -78,5 +76,3 @@ navlinks: [
 
 「妳有看到那個塞子嗎？」
 
-
-[2]:	/pages/sally-and-ashe_page-2.md
