@@ -9,4 +9,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   email = "yesleon@me.com"
   
 [permalinks]
-  pages = "/pages/:filename.md"
+  pages = "/:filename.md"
