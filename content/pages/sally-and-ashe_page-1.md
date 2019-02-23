@@ -3,7 +3,6 @@ date: 2019-02-23T04:20:25+08:00
 draft: false
 categories:
 - Short Stories
-navlinks: “1”
 ---
 
 # Sally and AsheHi 
@@ -76,3 +75,6 @@ navlinks: “1”
 
 「妳有看到那個塞子嗎？」
 
+[下一頁][1]
+
+[1]:	/pages/sally-and-ashe_page-2.md
