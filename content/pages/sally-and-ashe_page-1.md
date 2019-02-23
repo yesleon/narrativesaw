@@ -5,9 +5,9 @@ categories:
 - Short Stories
 ---
 
-# Sally and Ashe
+# Sally and Ashe - page 1
 
-## page 1
+## 莎莉與艾夕 - 第一頁
 
 「欸，莎莉！」
 
