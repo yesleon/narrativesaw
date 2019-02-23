@@ -1,9 +1,11 @@
 ---
 date: 2019-02-23T18:04:19+08:00
 draft: false
+categories:
+- Short Stories
 ---
 
-#  Page 2
+# Page 2
 
 ## 莎莉與艾夕
 
