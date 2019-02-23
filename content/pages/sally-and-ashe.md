@@ -1,6 +1,8 @@
 ---
 date: 2019-02-23T04:20:25+08:00
 draft: false
+categories:
+- Short Stories
 ---
 
 # Sally and Ashe
