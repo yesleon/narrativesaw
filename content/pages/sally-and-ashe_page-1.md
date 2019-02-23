@@ -77,4 +77,4 @@ categories:
 
 [下一頁][1]
 
-[1]:	sally-and-ashe_page-2.md
+[1]:	/pages/sally-and-ashe_page-2.md
