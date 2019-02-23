@@ -5,9 +5,7 @@ categories:
 - Short Stories
 ---
 
-# Sally and Ashe
-
-## Page 1
+## Sally and Ashe - page 2
 
 「欸，莎莉！」
 
@@ -76,7 +74,5 @@ categories:
 「妳有看到那個塞子嗎？」
 
 [下一頁][1]
-
----- 
 
 [1]:	/pages/sally-and-ashe_page-2.md
