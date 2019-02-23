@@ -11,7 +11,7 @@
 	    <h3> {{ $key | humanize }} </h3>
 	    <ul>
 	        {{ range $taxonomy.Pages }}
-	        <li><a href="{{ .Permalink }}"> {{ .File.ContentBaseName }} </a></li>
+	        <li><a href="{{ .Permalink }}"> {{ .File.ContentBaseName | humanize }} </a></li>
 	        {{ end }}
 	    </ul>
 	    {{ end }}
