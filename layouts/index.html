@@ -15,10 +15,7 @@
 	        {{ end }}
 	    </ul>
 	    {{ end }}
-	<div class="byline">
-	by <a itemprop="author" href="">{{ .Site.Author.name }}</a>
-	on <time datetime={{ .Params.date }}>{{ dateFormat "2 January 2006" .Params.date }}</time>
-	</div>
+	{{ partial "head.html" . }}
 </article>
 </body>
 
