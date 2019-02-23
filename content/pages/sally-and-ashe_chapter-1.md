@@ -74,3 +74,7 @@ categories:
 「什...什麼？」
 
 「妳有看到那個塞子嗎？」
+
+[下一頁][1]
+
+[1]:	sally-and-ashe_chapter-1.md

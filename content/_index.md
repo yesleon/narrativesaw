@@ -8,5 +8,3 @@ draft: false
 ## A hypertext mirror of my thoughts
 
 The world consists of multiple narratives. As a life, I have the responsibility to interpret the narratives around me.
-
-[1]:	pages/sally-and-ashe.md
