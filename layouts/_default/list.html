@@ -1,8 +1,9 @@
 <!doctype html>
 <html>
-{{ partial "head" . }}
+{{ partial "head.html" . }}
 
 <body>
+	{{ partial "article.html" . }}
     <ul>
     <!-- Ranges through content/posts/*.md -->
     {{ range .Pages }}
