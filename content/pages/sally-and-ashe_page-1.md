@@ -7,8 +7,6 @@ categories:
 
 # Sally and Ashe
 
-Hi 
-
 ## Page 1
 
 「欸，莎莉！」
@@ -78,5 +76,7 @@ Hi
 「妳有看到那個塞子嗎？」
 
 [下一頁][1]
+
+---- 
 
 [1]:	/pages/sally-and-ashe_page-2.md
