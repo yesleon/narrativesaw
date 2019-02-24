@@ -1,8 +1,4 @@
-<!doctype html>
-<html>
-{{ partial "head.html" . }}
-
-<body>
+{{ define "main" }}
     <ul>
     <!-- Ranges through content/posts/*.md -->
     {{ range .Pages }}
@@ -11,5 +7,4 @@
         </li>
     {{ end }}
     </ul>
-</body>
-</html>
+	    {{ end }}

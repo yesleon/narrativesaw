@@ -1,18 +1,20 @@
 <nav>
 
-<ol  class="nav navbar-nav">
-  {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
-</ol>
-{{ define "breadcrumbnav" }}
-{{ if .p1.Parent }}
-{{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
-{{ else if not .p1.IsHome }}
-{{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
-{{ end }}
-<li{{ if eq .p1 .p2 }} class="active"{{ end }}>
-  <a href="{{ .p1.Permalink }}">{{ .p1.File.ContentBaseName }}</a>
-</li>
-{{ end }}
+	
 
+	{{ template "breadcrumbnav" (dict "p1" .) }}
+
+	{{ define "breadcrumbnav" }}
+	{{ if .p1.Parent }}
+		{{ template "breadcrumbnav" (dict "p1" .p1.Parent)  }}
+    {{ else if .p1.Data.Term}}
+		{{ $taxo := .p1.Data.Plural }}
+			{{ template "breadcrumbnav" (dict "p1" (.p1.Site.GetPage (printf "/%s" $taxo)) )  }}
+	{{ else if not .p1.IsHome }}
+		{{ template "breadcrumbnav" (dict "p1" .p1.Site.Home )  }}
+	{{ end }}
+	<a href="{{ .p1.Permalink }}">{{ index (last 1 (split (delimit (split .p1.Permalink "/") "," "") ",")) 0 }}</a> /
+
+{{ end }}
 </nav>
 <hr />
