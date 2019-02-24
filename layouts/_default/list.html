@@ -1,5 +1,7 @@
 {{ define "main" }}
+{{ if .Content }}
 {{ partial "article.html" . }}
+{{ end }}
 <h2>Pages</h2>
     <ul>
     <!-- Ranges through content/posts/*.md -->
