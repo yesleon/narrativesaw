@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ partial "article.html" . }}
+<h2>Pages</h2>
     <ul>
     <!-- Ranges through content/posts/*.md -->
     {{ range .Pages }}
@@ -7,4 +9,4 @@
         </li>
     {{ end }}
     </ul>
-	    {{ end }}
+{{ end }}
