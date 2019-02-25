@@ -4,10 +4,10 @@
 	{{ .Content }}
 	
 	{{ if .Sections }}
-		<h2>Sections</h2>
+		<h2>Categories</h2>
 		<ul>
-			{{ range .Sections }}
-				<li><a href="{{ .Permalink }}">{{ .Title | humanize }}</a></li>
+			{{ range .Sections.ByWeight }}
+				<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 			{{ end }}
 		</ul>
 	{{ end }}

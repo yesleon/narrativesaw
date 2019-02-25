@@ -8,6 +8,7 @@ title = "narrativesaw"
   
 [permalinks]
   short-stories = "/short-stories/:filename.md"
+  others = "/others/:filename.md"
   
 [taxonomies]
   tag = "tags"
