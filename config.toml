@@ -7,8 +7,7 @@ title = "narrativesaw"
   email = "yesleon@me.com"
   
 [permalinks]
-  pages = "/pages/:filename.md"
+  short-stories = "/short-stories/:filename.md"
   
 [taxonomies]
-  category = "categories"
   tag = "tags"

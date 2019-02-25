@@ -1,8 +1,8 @@
 ---
 date: 2019-02-23T04:20:25+08:00
 draft: false
-categories:
-- Short Stories
+tags: [sally-and-ashe]
+title: Sally and Ashe - page 1
 ---
 
 # Sally and Ashe - page 1
