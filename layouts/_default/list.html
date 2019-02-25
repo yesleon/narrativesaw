@@ -1,14 +1,27 @@
 {{ define "main" }}
 {{ if .Content }}
-{{ partial "article.html" . }}
+	{{ partial "article.html" . }}
 {{ end }}
-<h2>Pages</h2>
-    <ul>
-    <!-- Ranges through content/posts/*.md -->
-    {{ range .Pages }}
-        <li>
-            <a href="{{ .Permalink }}">{{ .File.ContentBaseName | humanize }}, <em>{{ .Date.Format "02 January 2006" }}</em></a>
-        </li>
-    {{ end }}
-    </ul>
+<h2>{{ .Title }}</h2>
+<ul>
+	<!-- Ranges through content/posts/*.md -->
+	{{ range .Pages }}
+		<li>
+			<a href="{{ .Permalink }}">{{ .File.ContentBaseName | humanize }}, <em>{{ .Date.Format "02 January 2006" }}</em></a>
+		</li>
+	{{ end }}
+</ul>
+
+{{ if .IsHome }}
+	{{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+		{{ if $taxonomy }}
+		<h2><a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ $taxonomyname | humanize }}</a></h2>
+		<ul>
+			{{ range $key, $value := $taxonomy }}
+				<li><a href="{{ $taxonomyname }}/{{ $key }}">{{ $key | humanize }}</a></li>
+			{{ end }}
+		</ul>
+	{{ end }}
+	{{ end }}
+{{ end }}
 {{ end }}
