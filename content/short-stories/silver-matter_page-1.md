@@ -22,3 +22,7 @@ title: Silver Matter - page 1
 「搞什麼？」明碎念。話一說完，整車突然安靜。
 
 明的臉頰熱了起來。他轉身就走，掠過那對業務男，走向隔壁車廂去。
+
+[下一頁][1]
+
+[1]:	/short-stories/silver-matter_page-2.md
