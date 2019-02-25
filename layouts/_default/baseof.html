@@ -4,9 +4,11 @@
 
 <body>
 {{ partial "header.html" . }}
+<hr />
 {{ block "main" . }}
       <!-- The part of the page that begins to differ between templates -->
 {{ end }}
+<hr />
 {{ partial "footer.html" . }}
 </body>
 

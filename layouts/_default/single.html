@@ -1,3 +1,6 @@
 {{ define "main" }}
-{{ partial "article.html" . }}
+<main>
+	<em>{{ partial "byline.html" . }}</em>
+{{ .Content }}
+</main>
 {{ end }}

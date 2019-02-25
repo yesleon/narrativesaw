@@ -1,3 +1,11 @@
 <div class="byline">
 <time datetime={{ .Params.date }}>{{ dateFormat "2 January 2006" .Params.date }}</time>
+
+{{ range .Params.categories }}
+	<a href="/categories/{{ . | urlize }}">[{{ . }}]</a>
+{{ end }}
+{{ range .Params.tags }}
+	<a href="/categories/{{ . | urlize }}">#{{ . }}</a>
+{{ end }}
+
 </div>

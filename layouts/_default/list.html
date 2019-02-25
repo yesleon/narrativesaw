@@ -1,27 +1,30 @@
 {{ define "main" }}
-{{ if .Content }}
-	{{ partial "article.html" . }}
+<main>
+	{{ .Content }}
+	<h2>{{ .Title }}</h2>
+{{ range .AlternativeOutputFormats }}
+    {{ printf `<a rel="%s" type="%s" href="%s">` .Rel .MediaType.Type .Permalink | safeHTML }}
+		Subscribe by {{ .Name }}</a>
 {{ end }}
-<h2>{{ .Title }}</h2>
-<ul>
-	<!-- Ranges through content/posts/*.md -->
-	{{ range .Pages }}
-		<li>
-			<a href="{{ .Permalink }}">{{ .File.ContentBaseName | humanize }}, <em>{{ .Date.Format "02 January 2006" }}</em></a>
-		</li>
-	{{ end }}
-</ul>
+	<ul>
+		{{ range .Pages }}
+			<li>
+				<a href="{{ .Permalink }}" title="{{ .Date.Format "02 January 2006" }}">{{ .File.ContentBaseName | humanize }}</a>
+			</li>
+		{{ end }}
+	</ul>
 
-{{ if .IsHome }}
-	{{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-		{{ if $taxonomy }}
-		<h2>{{ $taxonomyname | humanize }}</h2>
-		<ul>
-			{{ range $key, $value := $taxonomy }}
-				<li><a href="{{ $taxonomyname }}/{{ $key }}">{{ $key | humanize }}</a></li>
+	{{ if .IsHome }}
+		{{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+			{{ if $taxonomy }}
+				<h2>{{ $taxonomyname | humanize }}</h2>
+				<ul>
+					{{ range $key, $value := $taxonomy }}
+						<li><a href="{{ $taxonomyname }}/{{ $key }}">{{ $key | humanize }}</a></li>
+					{{ end }}
+				</ul>
 			{{ end }}
-		</ul>
+		{{ end }}
 	{{ end }}
-	{{ end }}
-{{ end }}
+</main>
 {{ end }}
