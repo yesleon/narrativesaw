@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    line-height: 1.5;
 }
 a {
 	color: #777;
@@ -7,4 +8,7 @@ a {
 }
 a:hover {
 	color: #000;
+}
+article {
+    max-width: 32em;
 }
