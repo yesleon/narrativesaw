@@ -2,8 +2,8 @@ body {
     font-family: sans-serif;
     line-height: 1.5;
     max-width: 40em;
-    margin-left: 2em;
-    margin-right: 2em;
+    margin: auto;
+    padding: 2em;
 }
 a {
 	color: #777;
