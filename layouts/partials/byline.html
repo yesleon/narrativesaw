@@ -1,6 +1,8 @@
 <div class="byline">
-<time datetime={{ .Params.date }}>{{ dateFormat "2 January 2006" .Params.date }}</time>
-<a itemprop="author" href="/others/li-heng-hsu.md">{{ .Site.Author.name }}</a>
+
+by <a itemprop="author" href="/others/li-heng-hsu.md">{{ .Site.Author.name }}</a>
+
+on <time datetime={{ .Params.date }}>{{ dateFormat "2 January 2006" .Params.date }}</time>
 
 {{ range .Params.tags }}
 	<a href="/tags/{{ . | urlize }}/">#{{ . }}</a>
