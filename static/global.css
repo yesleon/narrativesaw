@@ -1,6 +1,9 @@
 body {
     font-family: sans-serif;
     line-height: 1.5;
+    max-width: 40em;
+    margin-left: auto;
+    margin-right: auto;
 }
 a {
 	color: #777;
@@ -8,9 +11,4 @@ a {
 }
 a:hover {
 	color: #000;
-}
-article {
-    max-width: 40em;
-    margin-left: auto;
-    margin-right: auto;
 }
