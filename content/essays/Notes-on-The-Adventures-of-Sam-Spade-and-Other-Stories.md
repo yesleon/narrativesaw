@@ -2,6 +2,7 @@
 date: 2019-03-03T17:35:33+08:00
 draft: false
 categories: []
+title: Notes on The Adventures of Sam Spade and Other Stories
 ---
 
 # Notes on The Adventures of Sam Spade and Other Stories
