@@ -1,11 +1,13 @@
 ---
 date: 2019-03-20T12:01:17+08:00
 draft: false
-categories: []
 title: Notes on The Wolf Among Us
+categories: []
 ---
 
-# _The Wolf Among Us_
+# Notes on _The Wolf Among Us_
+
+## Telltale 經典作品
 
 《The Wolf Among Us》是一款 Telltale 遊戲公司所製作的劇情取向遊戲。在遊戲的分類上，跟大部分該公司的遊戲一樣，是 3D 冒險遊戲。
 

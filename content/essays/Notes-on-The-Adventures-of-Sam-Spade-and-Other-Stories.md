@@ -7,6 +7,8 @@ title: Notes on The Adventures of Sam Spade and Other Stories
 
 # Notes on The Adventures of Sam Spade and Other Stories
 
+## 經典硬派偵探 Sam Spade 的起點
+
 這是一系列的冷硬派偵探短篇故事，都以《馬爾他之鷹》的 Sam Spade 為主角。
 
 這些短篇故事大多都集中在一個場景裡面，有 Sam 跟一群嫌疑犯在場，並由 Sam 透過與各人的對話去推敲出誰是兇手。也就是說，這些約在 1940 年代所寫成的冷硬派故事仍然帶有濃厚的 whodunnit 元素，只是這些故事的重點已經從智商的對決轉移到對人性的無奈上面去了。舉例來說，這些故事裡常會有些雖然是無辜的人物，但因為某些說不出口的因素而說謊或隱瞞事實。與其說 Sam 是在解謎，倒不如說他是在*把每個相關人物的面具剝除下來*。
