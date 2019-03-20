@@ -1,9 +1,6 @@
+<header>
 <nav>
-
-	
-
 	{{ template "breadcrumbnav" (dict "p1" .) }}
-
 	{{ define "breadcrumbnav" }}
 	{{ if .p1.Parent }}
 		{{ template "breadcrumbnav" (dict "p1" .p1.Parent)  }}
@@ -14,6 +11,6 @@
 		{{ template "breadcrumbnav" (dict "p1" .p1.Site.Home )  }}
 	{{ end }}
 	<a href="{{ .p1.Permalink }}">{{ index (last 1 (split (delimit (split .p1.Permalink "/") "," "") ",")) 0 }}</a> /
-
 {{ end }}
 </nav>
+</header>
