@@ -39,7 +39,7 @@ So there it is. Static folder structure versus dynamic tag assignment.
 
 The equivalencies in Ulysses of folders and smart lists are _groups_ and _filters_, and it’s actually quite simple to set up a GTD-like system here according to the Things approach.
 
-![]()(https://i.imgur.com/dLXEgIf_d.jpg)
+![](https://i.imgur.com/dLXEgIf_d.jpg)
 
 Guess which are groups and which are filters? I hope it’s not that obvious… yes, _Anytime_, _Someday_, and the _Logbook_, under the _iCloud_ section, are all filters. All groups are put inside a base group called, uncreatively, _Groups_, except for the _Inbox_.
 
