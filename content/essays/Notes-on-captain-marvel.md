@@ -5,7 +5,7 @@ title: Notes on Captain Marvel
 categories: []
 ---
 
-# Notes on Captain Marvel
+# Notes on _Captain Marvel_
 ## 女性角色的另一條路
 
 Brie Larson 的 Marvel 隊長非常有 Marvel 的味道：玩味十足，卻又充滿力量。跟 Wonder Woman 相同的是，他們都不特別在意女性就是柔弱這樣的社會觀感。無獨有偶的，他們也都是被訓練為戰士的人。一個是亞馬遜戰士，一個是空軍戰機飛行員加上 Kree 族特務。
