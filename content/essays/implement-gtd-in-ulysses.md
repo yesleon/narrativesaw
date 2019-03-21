@@ -43,7 +43,7 @@ The equivalencies in Ulysses of folders and smart lists are _groups_ and _filter
 
 Guess which are groups and which are filters? I hope it’s not that obvious… yes, _Anytime_, _Someday_, and the _Logbook_, under the _iCloud_ section, are all filters. All groups are put inside a base group called, uncreatively, _Groups_, except for the _Inbox_.
 
-I use keywords like _completed_ and _someday_ to assign sheets into the filters, and when there’s no such keywords, the sheets are going to show up in _Anytime_. All the filters work upon the base group _Groups_ since they can’t just work on the entire _iCloud_ section. They need a group to work on. Fortunately, I don’t need them to include sheets in the _Inbox_. Actually, smart lists in Things don’t include items in the Inbox, either.
+I use keywords like _completed_ and _someday_ to assign sheets into the filters, and when there’s no such keywords, the sheets are going to show up in _Anytime_.  (Update 3 March 2019: Filters actually work on the group they’re in, so _Anytime_ works on the root group of iCloud and that includes the _Inbox_.) Fortunately, I don’t need them to include sheets in the _Inbox_. Actually, smart lists in Things don’t include items in the Inbox, either.
 
 You might’ve noticed that there’s no _Today_ list. There is, in fact, but it’s called _Favorites_.
 
@@ -64,4 +64,3 @@ Also, the search system is somehow totally unrelated to the filter system. I kno
 The keyword management on iOS is cumbersome too. There was no way to show all keywords in one place, therefore if you wanted to show all sheets that have a specific tag, **you had to create a filter for that**. And no, it doesn’t provide the option to search for tags only when searching in Ulysses. Yet another reason to integrate filters and searching. The whole keyword design on Ulysses for iOS just feels so basic that it can be easily replaced by hashtags. (I just tried. It works great. Might worth another research someday.)
 
 Finally, although we can make it look _really like_ Things in Ulysses, there’s no way to add a start date to a sheet. It might not make much sense for Ulysses though, since it is ultimately a writing app not a scheduling app. Luckily, Ulysses supports sheet links, so we can copy the sheet links and paste them to our actual GTD apps. We can also assign them to the _Someday_ list or create a _Upcoming_ list just for them.
-
