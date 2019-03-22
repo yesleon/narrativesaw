@@ -43,7 +43,7 @@ The equivalencies in Ulysses of folders and smart lists are _groups_ and _filter
 
 Guess which are groups and which are filters? I hope it’s not that obvious… yes, _Anytime_, _Someday_, and the _Logbook_, under the _iCloud_ section, are all filters. All groups are put inside a base group called, uncreatively, _Groups_, except for the _Inbox_.
 
-I use keywords like _completed_ and _someday_ to assign sheets into the filters, and when there’s no such keywords, the sheets are going to show up in _Anytime_. ~~All the filters work upon the base group _Groups_ since they can’t just work on the entire _iCloud_ section. They need a group to work on. ~~ (Update 3 March 2019: Filters actually work on the group they’re in, so _Anytime_ works on the root group of iCloud and that includes the _Inbox_.) Fortunately, I don’t need them to include sheets in the _Inbox_. Actually, smart lists in Things don’t include items in the Inbox, either.
+I use keywords like _completed_ and _someday_ to assign sheets into the filters, and when there’s no such keywords, the sheets are going to show up in _Anytime_. <s>All the filters work upon the base group _Groups_ since they can’t just work on the entire _iCloud_ section. They need a group to work on.</s> (Update 3 March 2019: Filters actually work on the group they’re in, so _Anytime_ works on the root group of iCloud and that includes the _Inbox_.) Fortunately, I don’t need them to include sheets in the _Inbox_. Actually, smart lists in Things don’t include items in the Inbox, either.
 
 You might’ve noticed that there’s no _Today_ list. There is, in fact, but it’s called _Favorites_.
 
