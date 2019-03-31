@@ -1,6 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 title = "narrativesaw"
+googleAnalytics = "UA-136672120-1"
 
 [Author]  
   name = "Li-Heng Hsu" 

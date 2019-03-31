@@ -1,7 +1,7 @@
 ---
 date: 2019-03-27T10:41:51+08:00
 draft: false
-title: Practice GTD through Things
+title: 透過 Things 實踐 GTD
 categories: []
 ---
 
