@@ -10,7 +10,7 @@
 		body {
 			font-family: sans-serif;
 			 line-height: 1.2; 
-			 background-color: darkgrey; 
+			 background-color: gray; 
 			 text-align: center; 
 			 margin: 0;
 		}
@@ -23,6 +23,43 @@
 		p {
 			margin: 0;
 		}
+		#appicon {
+			max-width: 60em;
+		    margin: auto;
+		}
+		#appicon img {
+			width: 100px;
+			border-radius: 20%;
+		}
+		#appicon figcaption {
+			font-size: 1.5em; 
+			letter-spacing: 0.05em; 
+			line-height: 2em;
+		}
+		#download-badge {
+			max-width: 60em; 
+			margin: auto;
+		}
+		#main-screenshot {
+			max-width: 60em; 
+			margin: 4em auto auto;
+		}
+		#main-screenshot img {
+			width: 80%;
+		}
+		#main-footer {
+			padding: 2em;
+		}
+		.section-text {
+			max-width: 40em; 
+			margin: 2.5em auto;
+		}
+		.section-text p {
+			font-weight: lighter; 
+			font-size: 1.5em; 
+			letter-spacing: 0.05em; 
+			margin-top: 0.5em;
+		}
 		.grey-section {
 			background-color: gray;
 			color: white;
@@ -33,6 +70,9 @@
 		}
 		section {
 			padding: 8em 1em;
+		}
+		#section-download {
+			padding: 2em 1em;
 		}
 		a {
 			text-decoration: none;
@@ -49,49 +89,61 @@
 	<main>
 
 		<section id="section-hero" class="grey-section">
-			<figure style="max-width: 60em; margin: auto">
-				<img src="assets/appicon.png" width=100 style="border-radius: 20%" />
-				<figcaption style="font-size: 1.5em; letter-spacing: 0.05em">Storyboards</figcaption>
+			<figure id="appicon">
+				<img src="assets/appicon.png" />
+				<figcaption>Storyboards</figcaption>
 			</figure>
-			<div style="max-width: 40em; margin: 2.5em auto">
-				<h1 style="">
+			<div class="section-text">
+				<h1>
 					Create visual stories.
 				</h1>
-				<p style="font-weight: lighter; font-size: 1.5em; letter-spacing: 0.05em; margin-top: 0.5em">
+				<p>
 					Storyboards is a simplistic storyboard editor that lets you create narratives with photos, sketches, and any other images. 
 				</p>
 			</div>
-			<figure style="max-width: 60em; margin: 4em auto auto">
-				<img src="assets/main-screenshot.png" width=80% style="" />
+			<figure id="main-screenshot">
+				<img src="assets/main-screenshot.png" />
 			</figure>
 		</section>
 
 		<section id="section-create" class="white-section">
-			<div>
+			<div class="section-text">
 				<h1>Capture Ideas</h1>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent molestie tellus eget ex euismod, eu ultricies lectus tincidunt. Mauris velit augue, aliquam quis bibendum id, congue nec neque. Phasellus sit amet lacinia lectus. In magna ante, maximus nec euismod eget, aliquam eget enim. Mauris ut augue ipsum. Morbi tempus efficitur magna, eu auctor lorem faucibus eget. Etiam in commodo eros. Sed sed risus sed mi consectetur commodo non sit amet orci.
+				</p>
 			</div>
 		</section>
 
 		<section id="section-organise" class="grey-section">
-			<div>
+			<div class="section-text">
 				<h1>Organise Plots</h1>
-			</div>
-		</section>
-
-		<section id="section-mobility" class="white-section">
-			<div>
-				<h1>Work Anywhere</h1>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent molestie tellus eget ex euismod, eu ultricies lectus tincidunt. Mauris velit augue, aliquam quis bibendum id, congue nec neque. Phasellus sit amet lacinia lectus. In magna ante, maximus nec euismod eget, aliquam eget enim. Mauris ut augue ipsum. Morbi tempus efficitur magna, eu auctor lorem faucibus eget. Etiam in commodo eros. Sed sed risus sed mi consectetur commodo non sit amet orci.
+				</p>
 			</div>
 		</section>
 	
-		<section id="section-simplicity" class="grey-section">
-			<div>
+		<section id="section-simplicity" class="white-section">
+			<div class="section-text">
 				<h1>Focus on Content</h1>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent molestie tellus eget ex euismod, eu ultricies lectus tincidunt. Mauris velit augue, aliquam quis bibendum id, congue nec neque. Phasellus sit amet lacinia lectus. In magna ante, maximus nec euismod eget, aliquam eget enim. Mauris ut augue ipsum. Morbi tempus efficitur magna, eu auctor lorem faucibus eget. Etiam in commodo eros. Sed sed risus sed mi consectetur commodo non sit amet orci.
+				</p>
 			</div>
 		</section>
 
-		<section id="section-download" style="padding: 2em 1em" class="white-section">
-			<figure style="max-width: 60em; margin: auto">
+		<section id="section-mobility" class="grey-section">
+			<div class="section-text">
+				<h1>Work Anywhere</h1>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent molestie tellus eget ex euismod, eu ultricies lectus tincidunt. Mauris velit augue, aliquam quis bibendum id, congue nec neque. Phasellus sit amet lacinia lectus. In magna ante, maximus nec euismod eget, aliquam eget enim. Mauris ut augue ipsum. Morbi tempus efficitur magna, eu auctor lorem faucibus eget. Etiam in commodo eros. Sed sed risus sed mi consectetur commodo non sit amet orci.
+				</p>
+			</div>
+		</section>
+
+		<section id="section-download" class="white-section">
+			<figure id="download-badge">
 				<a href="https://itunes.apple.com/app/storyboards-by-narrativesaw/id1439598578">
 					<img src="assets/download-badge.svg" />
 				</a>
@@ -100,7 +152,7 @@
 	
 	</main>
 	
-	<footer style="padding: 2em;" class="grey-section">
+	<footer id="main-footer" class="grey-section">
 		<p>
 			© 2019 <a href="mailto:yesleon@me.com">Li-Heng Hsu</a>
 		</p>
