@@ -1,11 +1,11 @@
 ---
 date: 2019-02-24T12:10:31+08:00
 draft: false
-tags: [silver-matter]
-title: Silver Matter - page 1
+tags: [銀色物質]
+title: 銀色物質 - Chapter 1
 ---
 
-# Silver Matter - page 1
+# 銀色物質 - Chapter 1
 
 明不知道他眼前的物體是什麼。在捷運的車廂窗上，原本應該是他的倒影的地方，有一團銀色的物質浮在那裡。
 

@@ -1,11 +1,11 @@
 ---
 date: 2019-02-25T07:33:27+08:00
 draft: false
-tags: [silver-matter]
-title: Silver Matter - page 11
+tags: [銀色物質]
+title: 銀色物質 - Chapter 11
 ---
 
-# Silver Matter - page 11
+# 銀色物質 - Chapter 11
 
 「呃...」明問：「他是...？」
 

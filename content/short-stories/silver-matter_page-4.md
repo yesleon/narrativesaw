@@ -1,11 +1,11 @@
 ---
 date: 2019-02-25T07:32:48+08:00
 draft: false
-tags: [silver-matter]
-title: Silver Matter - page 4
+tags: [銀色物質]
+title: 銀色物質 - Chapter 4
 ---
 
-# Silver Matter - page 4
+# 銀色物質 - Chapter 4
 
 「為什麼她也過來了？」明質問說。
 

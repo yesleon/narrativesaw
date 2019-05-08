@@ -1,11 +1,11 @@
 ---
 date: 2019-02-25T07:33:13+08:00
 draft: false
-tags: [silver-matter]
-title: Silver Matter - page 8
+tags: [銀色物質]
+title: 銀色物質 - Chapter 8
 ---
 
-# Silver Matter - page 8
+# 銀色物質 - Chapter 8
 
 雨欣與熊哥回到室內走廊的時候，明已經從 MRI 室出來了，正在跟一名醫師說話。想必他就是剛剛做 MRI 的護理師提到的張醫師吧。
 

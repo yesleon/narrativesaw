@@ -1,11 +1,11 @@
 ---
 date: 2019-02-25T07:33:08+08:00
 draft: false
-tags: [silver-matter]
-title: Silver Matter - page 7
+tags: [銀色物質]
+title: 銀色物質 - Chapter 7
 ---
 
-# Silver Matter - page 7
+# 銀色物質 - Chapter 7
 
 在略顯過時的十七吋電腦螢幕上，顯示出一張張的腦斷面影像。熊哥其實並沒有很懂要怎麼看那些影像，但雨欣沒有出聲，他也就只好安靜看著。
 

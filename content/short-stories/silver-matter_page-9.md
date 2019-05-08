@@ -1,11 +1,11 @@
 ---
 date: 2019-02-25T07:33:17+08:00
 draft: false
-tags: [silver-matter]
-title: Silver Matter - page 9
+tags: [銀色物質]
+title: 銀色物質 - Chapter 9
 ---
 
-# Silver Matter - page 9
+# 銀色物質 - Chapter 9
 
 明甩上車門後，熊哥的車就揚長而去。明發現自己站在一片靜默的建築物之中，只有街角的全家還開著。他打開手機裡的地圖 app，離家還有二十幾分鐘的路程，用走的話。
 

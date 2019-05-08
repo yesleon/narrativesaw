@@ -1,11 +1,11 @@
 ---
 date: 2019-02-25T07:31:54+08:00
 draft: false
-tags: [silver-matter]
-title: Silver Matter - page 2
+tags: [銀色物質]
+title: 銀色物質 - Chapter 2
 ---
 
-# Silver Matter - page 2
+# 銀色物質 - Chapter 2
 
 「阿明，球！」
 

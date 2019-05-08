@@ -1,11 +1,11 @@
 ---
 date: 2019-02-25T07:33:34+08:00
 draft: false
-tags: [silver-matter]
-title: Silver Matter - page 12
+tags: [銀色物質]
+title: 銀色物質 - Chapter 12
 ---
 
-# Silver Matter - page 12
+# 銀色物質 - Chapter 12
 
 冠霖笑了起來，說：「沒有啦，就高興啊。遇到好朋友了。」
 
@@ -66,3 +66,7 @@ title: Silver Matter - page 12
 「那他是什麼的一部份？」
 
 「誰知道啊，又不是我看得到。」冠霖拿了根薯條起來吃。
+
+[下一頁][1]
+
+[1]:	/short-stories/silver-matter_page-13.md

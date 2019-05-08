@@ -1,11 +1,11 @@
 ---
 date: 2019-02-25T07:33:22+08:00
 draft: false
-tags: [silver-matter]
-title: Silver Matter - page 10
+tags: [銀色物質]
+title: 銀色物質 - Chapter 10
 ---
 
-# Silver Matter - page 10
+# 銀色物質 - Chapter 10
 
 他走出便利商店。街頭仍然靜謐，而他突然憐憫起這樣的靜謐。他們什麼都不知道，』他想。『也好，無知便是福。』然而他想起有些人即使看到了，卻還是假裝沒看到，寧願無知而得福。明不禁一陣酸楚。
 

@@ -1,11 +1,11 @@
 ---
 date: 2019-02-25T07:32:57+08:00
 draft: false
-tags: [silver-matter]
-title: Silver Matter - page 5
+tags: [銀色物質]
+title: 銀色物質 - Chapter 5
 ---
 
-# Silver Matter - page 5
+# 銀色物質 - Chapter 5
 
 像一台高射砲射出來的一樣，球精準地擊中銀色物質所在位置的管線，發出清脆的「鏘」一聲。球彈了幾下，滾回他們的腳邊。
 

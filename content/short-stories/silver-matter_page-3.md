@@ -1,11 +1,11 @@
 ---
 date: 2019-02-25T07:32:36+08:00
 draft: false
-tags: [silver-matter]
-title: Silver Matter - page 3
+tags: [銀色物質]
+title: 銀色物質 - Chapter 3
 ---
 
-# Silver Matter - page 3
+# 銀色物質 - Chapter 3
 
 明把茶匙插入他的那杯咖啡，而白色的拉花就在茶匙的攪拌之下成了模糊的漩渦。明攪啊攪的，泡沫也就漩啊漩的。
 
