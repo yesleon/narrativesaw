@@ -11,7 +11,7 @@ categories: []
 
 Firstly, add a constructor method like this to your `UIWindow` extension:
 
-```swift
+<pre>
 import UIKit
 
 extension UIWindow {
@@ -38,7 +38,7 @@ extension UIWindow {
     }
     
 }
-```
+</pre>
 
 And then, when you want to block user interaction:
 
