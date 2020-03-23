@@ -1,1 +1,1 @@
-/auth code=:code  river://receiveAuthorizationCode code=:code  301
+/auth code=:code  river://receiveAuthorizationCode?code=:code  301
