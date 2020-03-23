@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/old-path"
-  to = "/new-path"
+  to = "/new-path?code=:code"
   status = 301
   force = false
-  query = {path = ":path"}
+  query = {code = ":code"}
