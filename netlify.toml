@@ -1,6 +1,5 @@
 [[redirects]]
   from = "/auth"
-  to = "river://receiveAuthorizationCode?code=:code"
+  to = "river://auth"
   status = 301
   force = false
-  query = {code = ":code"}
